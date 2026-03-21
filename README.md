@@ -1,75 +1,80 @@
-# 🚀 Hi there, I'm Meyk Smith Uriate Cárdenas
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Meyk Smith Uriate Cárdenas
 
-🎯 **Information Systems Developer | Web Developer | POS Systems**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Systems+Developer;Web+Developer;POS+Systems+Specialist;UI%2FUX+Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Information Systems professional** focused on building **scalable, efficient, and user-friendly solutions**.  
-I have experience developing **web systems, POS software, and business tools**.
-
-- 🔭 Currently working on: **POS systems & web applications**
-- 🌱 Learning: **Flutter & system architecture**
-- 💬 Ask me about: **JavaScript, UI/UX, systems development**
-- ⚡ Fun fact: I turn complex problems into simple solutions
+💼 Information Systems Developer passionate about building **scalable, efficient, and modern solutions**  
+🚀 Experience in **POS systems, web applications, and business tools**  
+🎯 Focused on **clean code, performance, and user experience**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Programming & Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,cpp,csharp" />
 </p>
 
 ### 📱 Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🎨 Design Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+### 🎨 Design & Creativity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
 </p>
 
 ### 🧰 Tools & Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uriatecardenasmeyksmith-blip&show_icons=true&theme=tokyonight)
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uriatecardenasmeyksmith-blip&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uriatecardenasmeyksmith-blip&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
-- 🛒 **POS System** – Sales, inventory, reports  
-- 📦 **Online Order System** – Cart + WhatsApp integration  
-- 🏢 **Business Tools** – Custom management systems  
+✨ **POS System** → Sales, inventory, reports  
+✨ **Online Order System** → Cart + WhatsApp integration  
+✨ **Business Management Systems** → Custom enterprise solutions  
 
 ---
 
-## 📫 Contact
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🌐 Portfolio: https://your-portfolio.com  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💡 Professional Goal
-To develop **high-quality software solutions** and contribute to business growth through technology.
+## 💡 Professional Vision
+💼 Build **high-quality software solutions**  
+📈 Improve business processes through technology  
+🌎 Contribute to innovative and impactful projects  
 
 ---
 
 ## ⭐ Quote
-> "Code is not just code, it's a solution to a problem."
+<p align="center">
+  <i>"Code is not just code, it's a solution to a problem."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uriatecardenasmeyksmith-blip&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
