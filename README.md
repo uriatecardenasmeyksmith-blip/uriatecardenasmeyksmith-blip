@@ -5,22 +5,45 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Information Systems professional** with experience in developing **web applications, POS systems, and interactive interfaces**.  
-I focus on building **efficient, scalable, and user-friendly solutions** that solve real-world business problems.
+I am a passionate **Information Systems professional** focused on building **scalable, efficient, and user-friendly solutions**.  
+I have experience developing **web systems, POS software, and business tools**.
 
-- 🔭 Currently working on: **Point of Sale (POS) systems and web applications**
-- 🌱 Learning: **Flutter, backend optimization, and system architecture**
-- 👯 Looking to collaborate on: **innovative software projects**
-- 💬 Ask me about: **JavaScript, POS systems, UI/UX design**
-- ⚡ Fun fact: I enjoy turning complex problems into simple solutions
+- 🔭 Currently working on: **POS systems & web applications**
+- 🌱 Learning: **Flutter & system architecture**
+- 💬 Ask me about: **JavaScript, UI/UX, systems development**
+- ⚡ Fun fact: I turn complex problems into simple solutions
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Frontend:** HTML, CSS, JavaScript  
-- ⚙️ **Backend:** PHP, MySQL  
-- 📱 **Mobile:** Flutter (learning)  
-- 🧰 **Tools:** Git, GitHub, VS Code  
+
+### 💻 Programming & Web
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+</p>
+
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -30,13 +53,13 @@ I focus on building **efficient, scalable, and user-friendly solutions** that so
 ---
 
 ## 📌 Featured Projects
-- 🛒 **POS System** – Sales, reports, and inventory management  
-- 📦 **Online Order System** – Shopping cart with WhatsApp integration  
-- 🏢 **Business Management Tools** – Custom solutions for small businesses  
+- 🛒 **POS System** – Sales, inventory, reports  
+- 📦 **Online Order System** – Cart + WhatsApp integration  
+- 🏢 **Business Tools** – Custom management systems  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
 - 🌐 Portfolio: https://your-portfolio.com  
@@ -44,7 +67,7 @@ I focus on building **efficient, scalable, and user-friendly solutions** that so
 ---
 
 ## 💡 Professional Goal
-To contribute to a company by developing **high-quality software solutions**, improving processes, and adding value through technology.
+To develop **high-quality software solutions** and contribute to business growth through technology.
 
 ---
 
