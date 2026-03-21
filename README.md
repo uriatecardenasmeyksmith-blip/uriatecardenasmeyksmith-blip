@@ -62,31 +62,72 @@
 ---
 
 ## 🧠 Skills & Expertise
+
+<table>
+<tr>
+<td>
+
+### 💻 Development
 ✔️ Web Application Development  
-✔️ POS Systems & Business Software  
-✔️ Database Design (MySQL)  
-✔️ UI/UX Design & Frontend Optimization  
-✔️ System Integration (APIs, WhatsApp, etc.)  
-✔️ Problem Solving & Logical Thinking  
+✔️ POS & Business Systems  
+✔️ API Integration  
+
+</td>
+<td>
+
+### 🗄️ Database
+✔️ MySQL Design  
+✔️ Data Modeling  
+✔️ Query Optimization  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎨 UI/UX
+✔️ Interface Design  
+✔️ Frontend Optimization  
+✔️ User Experience  
+
+</td>
+<td>
+
+### ⚙️ Soft Skills
+✔️ Problem Solving  
+✔️ Logical Thinking  
+✔️ Continuous Learning  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
-💡 **POS System**  
-→ Sales, inventory, reports, user control  
 
-💡 **Online Order System**  
-→ Shopping cart + WhatsApp integration  
+🔹 **POS System**  
+`Sales` • `Inventory` • `Reports` • `User Control`
 
-💡 **Business Management Systems**  
-→ Custom solutions for real businesses  
+🔹 **Online Order System**  
+`Shopping Cart` • `WhatsApp Integration` • `Client Management`
+
+🔹 **Business Management Systems**  
+`Custom Solutions` • `Process Optimization` • `Real Clients`
 
 ---
 
 ## 🏆 Achievements & Goals
-🏅 Continuous learning in modern technologies  
-📈 Building real-world functional systems  
-🎯 Goal: Work in a tech company and grow as a **Software Engineer**
+
+🏅 **Continuous Growth**  
+> Always learning modern technologies and best practices  
+
+📈 **Real Impact**  
+> Development of functional systems used in real scenarios  
+
+🎯 **Career Objective**  
+> Become a **Software Engineer** and contribute to high-level tech companies  
 
 ---
 
@@ -96,13 +137,6 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
-
----
-
-## 💡 Professional Vision
-💼 Develop **high-quality, scalable software**  
-🚀 Help companies optimize processes through technology  
-🌎 Contribute to impactful and innovative digital solutions  
 
 ---
 
