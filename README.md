@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Smith Uriate Cárdenas
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Smith Uriate Cárdenas
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Systems+Developer;Full+Stack+Web+Developer;POS+Systems+Specialist;UI%2FUX+Enthusiast;Problem+Solver&center=true&width=600&height=45">
